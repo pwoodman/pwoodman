@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pwoodman
-- 👀 I’m interested in ... solving complex problems
-- 🌱 I’m currently learning ... process automation
-- 💞️ I’m looking to collaborate on ... any process automation projects
+- 👀 I’m interested in ... solving complex problems and makeing peoples work lives easier
+- 🌱 I’m currently learning ... AI, ML, Process Automation
+- 💞️ I’m looking to collaborate on ... interesting ideas and projects
 - 📫 How to reach me ... LinkedIn = pwoodman1990
 
 <!---
